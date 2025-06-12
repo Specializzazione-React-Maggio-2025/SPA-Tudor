@@ -44,7 +44,7 @@ export default function Nav() {
               to="/" // Use NavLink for the logo if it points to a route
               className="text-2xl font-bold text-indigo-600 hover:text-indigo-800 transition-colors"
             >
-              Logo
+              SinglePageApplication
             </NavLink>
           </div>
 
